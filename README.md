@@ -3,8 +3,8 @@ GNU/Linux Shell Programming
 
 ## Syntax: 
 ``
-\#!/bin/bash
-\#Write your program here.
+#!/bin/bash
+#Write your program here.
 ``
 
 ## Change to executable mode: 
