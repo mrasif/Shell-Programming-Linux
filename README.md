@@ -8,13 +8,13 @@ GNU/Linux Shell Programming
 ```
 
 ## Change to executable mode: 
-``
+```
 $chmod 775 <file name>
 $chmod 775 scripts.sh
-``
+```
 
 ## To Run: 
-``
+```
 $<file path>
 $./scripts.sh
-``
+```
