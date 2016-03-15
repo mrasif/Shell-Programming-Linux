@@ -2,6 +2,7 @@
 GNU/Linux Shell Programming
 
 ## Syntax:
+
 ``
 #!/bin/bash
 
