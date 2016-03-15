@@ -5,6 +5,7 @@ GNU/Linux Shell Programming
 ```
 #!/bin/bash
 #Write your program here.
+echo "Hello World !"
 ```
 
 ## Change to executable mode: 
