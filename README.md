@@ -19,3 +19,6 @@ $chmod 775 scripts.sh
 $<file path>
 $./scripts.sh
 ```
+
+Regards,
+Asif
