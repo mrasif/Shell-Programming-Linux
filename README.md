@@ -1,5 +1,5 @@
-# Shell-Programming-Linux
-GNU/Linux Shell Programming
+# Unix Shell Script
+Unix/Linux Shell Programming
 
 ## Syntax: 
 ```
@@ -12,6 +12,9 @@ echo "Hello World !"
 ```
 $chmod 775 <file name>
 $chmod 775 scripts.sh
+or
+$chmod +x <file name>
+$chmod +x scripts.sh
 ```
 
 ## To Run: 
@@ -20,5 +23,3 @@ $<file path>
 $./scripts.sh
 ```
 
-Regards,
-Asif
