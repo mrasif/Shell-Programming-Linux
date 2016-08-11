@@ -1,0 +1,5 @@
+tablet
+radio
+mobile
+laptop
+apple
